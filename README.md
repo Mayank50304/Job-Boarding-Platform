@@ -22,8 +22,10 @@ Zithara leverages the following technologies to ensure performance, scalability,
 
 Here’s a step-by-step visual guide to the platform's core functionality:
 ### **🔹Home**
-  Home screen for all users.  
-   ![HOME](docs/home-screen.png)
+ Home screen for all users.  
+ ![HOME](docs/home-screen.png)
+ Has Basic Error-Handling Mechanism
+ ![ERROR](docs/error-screen.png)
 
 ### **🔹 Admin Workflow**
 1. **Admin Login**  
@@ -49,9 +51,11 @@ Here’s a step-by-step visual guide to the platform's core functionality:
    Companies can view applicants for posted jobs and contact them directly via email.  
    ![Company Viewing Applicants](docs/company-viewing-applicants.png)
 
-4. **Deleting Jobs**  
-   Companies can delete job listings if necessary.  
-   ![Company Deleting Jobs](docs/company-deleting-jobs.png)
+4. **Each job has its own applicants**  
+   Different  Applications for each job
+   ![Full Stack Job](docs/company-viewing-applicants.png)
+   ![Backend Job](docs/company-backendjob-applicants.png)
+   
 
 ---
 
@@ -64,9 +68,6 @@ Here’s a step-by-step visual guide to the platform's core functionality:
    After registration, job seekers can browse available jobs and apply for roles of interest.  
    ![Job Seeker Applying](docs/job-seeker-applying.png)
 
-3. **Waiting for Mail Contact**  
-   Job seekers wait for an email notification once their application has been reviewed or updated.  
-   ![Job Seeker Waiting for Mail](docs/job-seeker-waiting-mail.png)
 
 ---
 
